@@ -1,0 +1,3 @@
+To test git merge --squash feature/login
+git commit -m "Squashed commit"
+these cmd's!
